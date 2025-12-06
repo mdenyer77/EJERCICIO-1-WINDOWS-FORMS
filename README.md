@@ -1,2 +1,2 @@
 # EJERCICIOs-1-WINDOWS-FORMS
-en este trabajo se muestra la calculadora basica en windows forms
+en este trabajo se muestra el promedio de calificaciones
